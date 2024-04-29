@@ -381,11 +381,4 @@
     border-radius: 15px;
     margin-bottom: 10px;
 }
-@media(max-width:576px){
-    .videoyt{
-        display: flex;
-        justify-self: start;
-        margin-left: 0%;
-        width: 100%;
-    }
-}
+
