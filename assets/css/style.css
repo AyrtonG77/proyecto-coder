@@ -35,12 +35,12 @@
 .hover:hover{
     color: rgb(255, 255, 255);
 }
-@media screen (max-width:576px){
+@media(max-width:576px){
     .minavbar{
         display: flex;
         justify-content: space-between;
         padding: 0px;
-    }
+      }
     .minavbar > .fa-bars{
         display: block;
         color: black;
