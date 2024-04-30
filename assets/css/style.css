@@ -35,7 +35,7 @@
 .hover:hover{
     color: rgb(255, 255, 255);
 }
-@media(max-width:576px){
+@media screen (max-width:576px){
     .minavbar{
         display: flex;
         justify-content: space-between;
